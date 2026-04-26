@@ -1,6 +1,10 @@
 #include <iostream>
 
+int add(int a, int b) {
+    return a + b;
+}
+
 int main() {
-std::cout << "Main change before rebase" << std::endl;
+    std::cout << "Sum: " << add(3, 4) << std::endl;
     return 0;
 }
