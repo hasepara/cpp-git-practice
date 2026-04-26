@@ -1,7 +1,6 @@
 #include <iostream>
 
 int main() {
-    int a = 3, b = 4;
-    std::cout << "Sum: " << a + b << std::endl;
+    std::cout << "This is main branch." << std::endl;
     return 0;
 }
