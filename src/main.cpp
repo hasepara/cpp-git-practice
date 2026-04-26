@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello Git Practice!" << std::endl;
+    int a = 3, b = 4;
+    std::cout << "Sum: " << a + b << std::endl;
     return 0;
 }
