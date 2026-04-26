@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Resolved conflict version" << std::endl;
+std::cout << "Main change before rebase" << std::endl;
     return 0;
 }
